@@ -1,6 +1,6 @@
 # Landing-pages
 
-LANDING PAGES USING HTML/CSS
+LANDING PAGES USING HTML/CSS & GSAP
 
 ∎ 1-Basic-landing-page
 
